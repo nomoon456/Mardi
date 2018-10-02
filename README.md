@@ -8,4 +8,4 @@ Stephane Cala (Git User = Timmo404)
 
 Nicolas Belleudy (Git User = Winston777)
 
-Mickael Jista (Git User = jango974)
+Mickaël Jista (Git User = jango974)
